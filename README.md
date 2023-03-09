@@ -10,7 +10,7 @@ Advancements of Vision Transformers (ViTs) with Convolutional Neural Networks Me
 ![overview_proposed](https://user-images.githubusercontent.com/75313778/224008118-66fa5f1b-105d-4c5a-9601-825b64a6ba3e.jpg)
 
 Dataset  | Proposed Method | Loss | Accuracy | Precision | Recall | F1-score | Sensitivity | Specificity
-------------- | -------------
+------------- | -------------|-------------|----------|-----------|----|-------|-----|-----
 SARS-CoV-2  | DenseCMT (CMT_2345 + DenseNet169) | 0.0472	|	98.99	|	0.99	|	0.9899	|	0.9899	|	0.996	|	0.9837
 Extensive COVID-19 X-Ray and CT Chest  | DenseCMT (CMT_2345 + DenseNet121) | 0.0467	|	98.64	|	0.9864	|	0.9864	|	0.9864	|	0.989	|	0.981
 
