@@ -5,3 +5,11 @@ Advancements of Vision Transformers (ViTs) with Convolutional Neural Networks Me
 # Datasets used
 * SARS-CoV-2 Dataset  https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset
 * Extensive COVID-19 X-Ray and CT Chest Images Dataset  https://data.mendeley.com/datasets/8h65ywd2jr
+
+# Block Diagram
+![overview_proposed](https://user-images.githubusercontent.com/75313778/224008118-66fa5f1b-105d-4c5a-9601-825b64a6ba3e.jpg)
+
+Dataset  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
